@@ -1,0 +1,353 @@
+Place,Bib,First Name,Last Name,City,State,time,gender,age
+1,127,Erin,Huck,Boulder,Co,3:28:00,F,33
+2,167,Kristen,Legan,Boulder,Co,3:58:21,F,29
+3,31,Karen,Borgstedt,Pueblo,Co,4:11:24,F,46
+4,61,Kt,Desantis,Allenspark,Co,4:17:44,F,52
+5,42,Sarah,Burnett,Englewood,Co,4:22:27,F,29
+6,278,Nicole,Valentine,Germantown,Md,4:30:07,F,32
+7,206,Bevin,Orlinski,Golden,Co,4:36:07,F - Tandem,43
+8,286,Donna,Wallace,,,4:38:58,F - Tandem,
+9,304,Rebecca,Botizy,,,4:40:51,F,
+10,177,Carol,Lucking,Broomfield,Co,4:50:52,F,31
+11,291,Jaime Skylar,Watts,Claremore,Ok,4:51:54,F,46
+12,116,Remy,Hitt,Emeryville,Ca,4:54:16,F,26
+13,130,Meaghan,Jennings,Denver,Co,4:55:55,F,33
+14,118,Mindi,Hoffmaster,Denver,Co,4:57:37,F,46
+15,260,Kristen,Shoup,Denver,Co,5:00:26,F,32
+16,248,Tim,Schultz,Loveland,Co,5:01:22,F,52
+17,13,Ligiana,Aurrecoechea,Westminster,Co,5:04:40,F,31
+18,281,Cindy,Vanover,Longmont,Co,5:08:02,F,48
+19,192,Crystal,Miller,Silverthorne,Co,5:08:04,F,47
+20,199,Shareen,Muldrow,Cheyenne,Wy,5:09:56,F,45
+21,150,Amanda,Knutson,Boulder,Co,5:16:42,F,24
+22,280,Merry,Vander Linden,Golden,Co,5:24:22,F,62
+23,250,Allison,Seymour,Edgewater,Co,5:26:04,F,45
+23,311,Elizabeth,Rowley,,,5:29:12,F,
+24,247,Barbara,Schultz,Loveland,Co,5:29:26,F,53
+25,180,Sarah,Marcikonis,Longmont,Co,5:50:52,F,49
+26,277,Laura,Turvey,Golden,Co,5:52:24,F,46
+27,117,Kathy,Hix,Longmont,Co,5:58:08,F,59
+28,242,Kellie,Ruse,Louisville,Co,6:30:01,F,54
+,185,Mimi,Mather,Boulder,Co,1/2 Course,F,40
+,17,Bec,Bale,Steamboat Springs,Co,,F,39
+,103,Heidi,Gurov,Cheyenne,Wy,,F,31
+,125,Vicki,Hopewell,Boulder,Co,,F,38
+,212,Angela,Paterna,Arden,Nc,,F,44
+,256,Catherine,Shenk,Boulder,Co,,F,56
+,288,Dona,Wallace,Golden,Co,,F,52
+,,,,,,,,
+,,,,,,,,
+1,6,Bryan,Alders,Boulder,Co,3:06:31,M,29
+2,16,Chris,Baddick,Boulder,Co,3:06:32,M,26
+3,156,Sepp,Kuss,Boulder,Co,3:06:33,M,20
+4,119,Mitchell,Hoke,Boulder,Co,3:06:34,M,26
+5,221,Kennett,Peterson,Boulder,Co,3:11:48,M,29
+6,216,Colby,Pearce,Boulder,Co,3:11:49,M,42
+7,301,Josh,Yeaton,Boulder,Co,3:11:49,M,25
+8,292,Jake,Wells,Avon,Co,3:12:00,M,36
+9,81,Brian,Firle,Boulder,Co,3:15:18,M,28
+10,276,Nick,Truitt,Breckenridge,Co,3:15:18,M,35
+11,231,Spencer,Powlison,Boulder,Co,3:18:47,M,31
+12,8,Josh,Allen,Wheatridge,Co,3:21:01,M,27
+13,230,Don,Powell,Boulder,CO,3:21:58,M,
+14,57,Scott,Crabtree,Boulder,Co,3:21:58,M,38
+15,11,Nicholas,Applegate,Boulder,Co,3:21:59,M,33
+16,40,Michael,Burleigh,Edgewater,Co,3:24:17,M,33
+17,28,Josh,Bezecny,Golden,Co,3:24:19,M,33
+18,25,Bradley,Berger,Lafayette,Co,3:24:21,M,26
+19,299,Christopher,Winn,Lakewood,Co,3:24:21,M,30
+20,314,Peter,Kalmes,Steamboat Springs,Co,3:26:54,M,
+21,20,Clayton,Barrows,Golden,Co,3:28:04,M,32
+22,139,Brady,Kappius,Boulder,Co,3:28:05,M,27
+23,121,Greg,Holick,Golden,Co,3:31:54,M,39
+24,140,Russell,Kappius,Littleton,Co,3:31:55,M,54
+25,290,Garren,Watkins,Boulder,Co,3:34:59,M,39
+26,197,Paul,Morris,Denver,Co,3:35:06,M,28
+27,336,Eric,Long,Boulder,Co,3:35:37,M,
+28,,Gary,Sharp,Boulder,CO,3:37:54,M,
+28,55,Nathan,Collier,Golden,Co,3:37:54,M,33
+29,3,Bob,Africa,Boulder,Co,3:39:31,M,42
+30,282,Adam,Vaughan,Littleton,Co,3:39:31,M,32
+31,21,Rob,Batey,Boulder,Co,3:39:34,M,41
+32,334,Aaron,Bouplon,Boulder,Co,3:39:55,M,
+33,,Mat,Barlow,,,3:41:21,M,
+34,178,Stephen,Mack,Broomfield,Co,3:41:24,M,40
+35,313,Greg,Abrahamson,Longmont,Co,3:41:43,M,
+36,126,Connor,Houtchens,Colorado Springs,Co,3:44:35,M,27
+37,155,Steven,Kurland,Lyons,Co,3:44:37,M,55
+38,111,James,Harmon,Fort Collins,Co,3:45:59,M,37
+39,243,Robert,Ruskaup,Thornton,Co,3:46:33,M,43
+40,244,Jason,Russell,Edwards,Co,3:47:46,M,42
+41,74,Jason,Douglass,Superior,Co,3:47:56,M,41
+42,97,Tim,Graczyk,Boulder,Co,3:48:00,M,40
+43,308,John,Shaffer,,,3:48:55,M,
+44,184,Don,Maschka,Boulder,Co,3:49:39,M,49
+45,293,Steven,Wens,Estes Park,Co,3:49:40,M,50
+46,191,Jay,Middleton,Lakewood,Co,3:51:48,M,45
+47,133,Zach,Johnson,Denver,Co,3:51:49,M,26
+48,122,Grant,Holicky,Boulder,Co,3:53:09,M,45
+49,67,Dean,Digiulio,Denver,Co,3:53:10,M,48
+50,289,Bryce,Walsh,Boulder,Co,3:53:40,M,43
+51,228,Neil,Popovich,Golden,Co,3:55:27,M,37
+52,186,Matt,Mcisaac,Golden,Co,3:55:32,M,31
+53,109,Brian,Hannon,Boulder,Co,3:55:42,M,48
+54,253,Dirk,Shaw,Westminster,Co,3:57:25,M,39
+55,51,Steve,Caughlin,Castle Pines,Co,3:57:52,M,44
+56,262,Christian,Smith,Boulder,Co,3:58:13,M,41
+57,106,Adam,Haid,Erie,Co,3:58:19,M,39
+58,45,Bob,Campbell,Evergreen,Co,3:58:21,M,58
+59,46,Felipe,Cantero,Arvada,Co,3:58:26,M,36
+60,339,Townsend,Hall,Boulder,Co,4:01:00,M,
+61,73,Alex,Dorganross,Boulder,Co,4:01:21,M,37
+62,143,Bill,Kellagher,Boulder,Co,4:01:21,M,59
+63,88,Steven,Gardner,Boulder,Co,4:01:52,M,30
+64,80,Dave,Farrell,Pueblo,Co,4:02:00,M,42
+65,322,Cormac,Dunn,Denver,Co,4:02:03,M,
+66,44,John,Calgiano,Boulder,Co,4:02:05,M,38
+67,204,Robert,O'donnell,Longmont,Co,4:02:05,M,54
+68,201,Henrik,Nejezchleb,Boulder,Co,4:02:06,M,51
+69,321,Liam,Dunn,Denver,Co,4:02:09,M,
+70,266,Andrew,Sterner,Little,Co,4:04:21,M,43
+71,41,Jeff,Burnett,Fort Collins,Co,4:04:22,M,58
+72,233,Chris,Quinn,Lyons,Co,4:04:23,M,43
+73,14,Patrick,Bacalis,Lomgmont,Co,4:04:24,M,44
+74,110,Dave,Harber,Louisville,Co,4:04:27,M,38
+75,99,John,Greig,Platteville,Co,4:05:53,M,40
+76,37,Sean,Bruton,Denver,Co,4:06:33,M,32
+77,4,Angelopulos,Alan,Broomfield,Co,4:07:07,M,44
+78,237,Charles Douglas,Richards,Longmont,Co,4:07:29,M,54
+79,113,Jonathan,Hayden,Boulder,Co,4:08:30,M,27
+80,71,Ray,Dohr,Evergreen,Co,4:08:32,M,44
+81,54,Joseph,Coffey,Littleton,Co,4:08:34,M,41
+82,75,Jared,Draper,Wheat Ridge,Co,4:09:03,M,28
+83,318,Wade,Washburn,Denver,Co,4:10:44,M,
+84,102,Robin,Guillaume,Fort Collins,Co,4:11:15,M,35
+85,193,James,Mitchell,Boulder,Co,4:11:21,M,24
+86,170,Owen,Lin,Denver,Co,4:11:24,M,39
+87,283,Andrew,Wacker,Monument,Co,4:11:25,M,53
+88,26,Dave,Berreman,Lyons,Co,4:11:27,M,53
+89,134,Michael,Jones,Denver,Co,4:11:27,M,52
+90,59,Scott,Daub,Littleton,Co,4:11:38,M,44
+91,62,Curry,Deutsch,Littleton,Co,4:13:03,M,42
+92,255,Justin,Sheldon,Denver,Co,4:14:34,M,38
+93,296,Andy,Wiedrich,Boulder,Co,4:14:52,M,29
+94,182,Flolid,Mark,Boulder,Co,4:14:58,M,48
+95,66,Omar,Dickenson,Golden,Co,4:15:33,M,44
+96,218,Karl,Pelletier,Longmont,Co,4:15:36,M,43
+97,189,Doug,Mers,Lyons,Co,4:15:42,M,41
+98,120,Nicholas,Holbus,Boulder,Co,4:16:25,M,35
+99,39,Joel,Budacki,Evergreen,Co,4:16:28,M,36
+100,24,Michael,Beer,Longmont,Co,4:16:30,M,44
+101,112,Peter,Hartwig,Golden,Co,4:17:20,M,27
+102,295,Kurt,Wieck,Laporte,Co,4:17:35,M,53
+103,153,Marc,Kriewaldt,Allenspark,Co,4:17:44,M,51
+104,2,Steven,Acarregui,Niwot,Co,4:17:54,M,27
+105,65,Justin,Dickenson,Boulder,Co,4:19:14,M,41
+106,338,John,Davis,Boulder,Co,4:20:22,M,
+107,5,James,Albersheim,Arvada,Co,4:21:16,M,52
+108,210,Hank,Pantier,Erie,Co,4:21:32,M,40
+109,226,Alan,Podczervinski,Broomfield,Co,4:21:55,M,39
+110,234,Dave,Ratcliff,Littleton,Co,4:22:21,M,43
+111,76,Walter,Edwards,Boulder,Co,4:22:23,M,39
+112,217,Darin,Peery,Parker,Co,4:22:24,M,49
+113,312,Tim,Ams,,,4:23:36,M,
+114,27,Robert,Bertrand,Denver,Co,4:24:18,M,52
+115,169,Jackson,Lewis,Erie,Co,4:24:29,M,37
+116,257,Adam,Sher,Boulder,Co,4:25:12,M,51
+117,187,Chad,Melis,Lyons,Co,4:25:27,M,38
+118,78,Jon,Elliott,Denver,Co,4:25:33,M,47
+119,315,J.r.,Hildebrand,Boulder,Co,4:27:12,M,
+120,157,Jeff,La Force,Littleton,Co,4:27:13,M,53
+121,203,Morgan,Newlon,Boulder,Co,4:27:13,M,36
+122,176,Tim,Lucking,Broomfield,Co,4:28:11,M,37
+123,208,Nick,Orticelle,Denver,Co,4:28:13,M,31
+124,18,Michael,Baraga,Longmont,Co,4:28:22,M,48
+125,152,Gabriel,Krenza,Lyons,Co,4:28:22,M,30
+126,166,Nicholas,Legan,Boulder,Co,4:28:22,M,35
+127,332,Malcom,Tassi,Denver,Co,4:28:26,M,
+128,195,David,Mizelle,Stillwater,Ok,4:28:31,M,36
+129,141,Chris,Byrne,Boulder,Co,4:28:33,M,44
+130,267,Scott,Stevelinck,Lyons,Co,4:28:33,M,42
+131,30,Robert,Blackwell,Pueblo,Co,4:28:46,M,42
+132,79,Don,Fair,Pueblo West,Co,4:28:46,M,44
+133,202,David,Newcomer,Highlands Ranch,Co,4:29:45,M,44
+134,225,Jason,Plunkett,Berthoud,Co,4:29:45,M,42
+135,60,Joost,De Gouw,Boulder,Co,4:30:07,M,48
+136,144,Todd,Kelley,Lakewood,Co,4:30:08,M,32
+137,303,Benjamin,Zink,Berthoud,Co,4:30:14,M,46
+138,254,Dave,Sheanin,Erie,Co,4:32:30,M,46
+139,330,Bobby,Verenna,Lakewood,Co,4:32:34,M,
+140,105,David,Hadley,Boulder,Co,4:32:37,M,44
+141,222,Dexter,Pham,Wichita,Ks,4:35:19,M,41
+142,9,John,Allington,Longmont,Co,4:36:03,M,37
+143,206,Bevin,Orlinski,Golden,Co,4:36:07,M,43
+144,207,Dan,Orlinski,Golden,Co,4:36:07,M,43
+145,232,Jd,Prater,Englewood,Co,4:36:10,M,31
+146,163,Paul,Lee,Longmont,Co,4:37:25,M,38
+147,329,Chris,Behreus,Golden,Co,4:37:44,M,
+148,63,Adam,Devoe,Denver,Co,4:37:46,M,42
+149,124,Tom,Hootman,Denver,Co,4:37:47,M,47
+150,188,Neal,Mendel,Cherry Hills,Intl State,4:37:47,M,48
+151,235,Matthew,Ray,Centennial,Co,4:37:48,M,44
+152,48,Scott,Cary,Wheat Ridge,Co,4:38:46,M,41
+153,287,Mark,Wallace,Golden,Co,4:38:58,M,52
+154,68,James,Dimaiolo,Boulder,Co,4:39:48,M,26
+155,138,Eric,Kanopkin,Castle Rock,Co,4:39:52,M,24
+156,223,Frank,Pike,Denver,Co,4:39:58,M,43
+157,142,Nathaniel,Kawa,Boulder,Co,4:40:53,M,31
+158,325,Dan,Cutler,Boulder,Co,4:41:36,M,
+159,215,John,Payne,Longmont,Co,4:42:33,M,53
+160,86,Brad,Fross,Boulder,Co,4:42:35,M,45
+161,173,Peter,Lopez,Denver,Co,4:42:37,M,45
+162,252,Dan,Shaver,Berthoud,Co,4:42:56,M,34
+163,56,Matt,Couzens,Denver,Co,4:43:10,M,43
+164,323,Jason,Gardner,Denver,Co,4:43:10,M,
+165,219,Adam,Perkins,Boulder,Co,4:44:38,M,37
+166,168,Devin,Lemmon,Pueblo West,Co,4:45:21,M,44
+167,147,Samer,Khodor,Evergreen,Co,4:45:28,M,46
+168,82,Joel,Flom,Littleton,Co,4:45:29,M,46
+169,211,Thomas,Panton,Centennial,Co,4:45:56,M,49
+170,95,Bruce,Gorr,Steamboat Springs,Co,4:46:29,M,50
+171,100,Kirk,Groves,Louisville,Co,4:46:29,M,44
+172,307,Bradford,Sims,,,4:46:29,M,
+173,306,Ken,Dunn,,,4:46:34,M,
+174,213,Josh,Patsey,Denver,Co,4:46:51,M,34
+175,220,Tony,Peters,Broomfield,Co,4:46:57,M,45
+176,311,Adam,Perry,,,4:50:00,M,
+177,175,Terry,Lott,Parker,Co,4:50:33,M,43
+178,136,Jason,Kaminski,Longmont,Co,4:50:53,M,45
+179,239,Matt,Robinson,Louisville,Co,4:53:03,M,44
+180,58,Jay,Custard,Erie,Co,4:53:12,M,42
+181,129,Brian,Intoccia,Denver,Co,4:53:15,M,33
+182,270,Paul,Talbot,Boulder,Co,4:53:31,M,32
+183,83,Christopher,Foster,Aurora,Co,4:53:32,M,42
+184,258,Nick,Sherwood,Evergreen,Co,4:53:32,M,45
+185,245,Piet,Sawvel,Longmont,Co,4:53:50,M,48
+186,114,Scott,Hendricks,Lakewood,Co,4:54:44,M,58
+187,164,Matthew,Lee,Denver,Co,4:55:06,M,29
+188,70,Scott,Dobbins,Littleton,Co,4:57:34,M,44
+189,148,Bret,Kibele,Denver,Co,4:57:34,M,45
+190,271,Jamey,Taylor,Littleton,Co,4:57:34,M,48
+191,47,Guillermo,Carrera,Aurora,Co,4:57:37,M,50
+192,328,Josi,Flester,Boulder,Co,4:57:38,M,
+193,275,Joe,Tonsager,Denver,Co,4:58:29,M,32
+194,50,Ricardo,Castromalaga,Glendale,Co,4:59:33,M,49
+195,135,Jeff,Joslin,Longmont,Co,4:59:53,M,33
+196,179,Sean,Malone,Denver,Co,4:59:54,M,42
+197,131,Keith,Johnson,Lyons,Co,5:00:26,M,41
+198,183,Gregory,Marzolf,Fort Collins,Co,5:01:21,M,49
+199,224,Jesse,Pisel,Golden,Co,5:01:23,M,28
+200,12,Tom,Arnold,Boulder,Co,5:06:02,M,53
+201,96,Stuart,Goyne,Loveland,Co,5:06:20,M,45
+202,15,Greg,Bachman,Silverthorne,Co,5:08:03,M,53
+203,123,David,Holshouser,Longmont,Co,5:08:04,M,43
+204,69,Alexander,Dismore,Denver,Co,5:09:28,M,28
+205,298,Robert,Wilson,Cheyenne,Wy,5:09:57,M,35
+206,317,Kourtney,Compton,Boulder,Co,5:10:22,M,
+207,335,Tom,Danielson,Boulder,Co,5:10:24,M,
+208,33,Douglas,Brining,Lyons,Co,5:13:21,M,46
+209,92,Lewis,Geyer,Longmont,Co,5:13:23,M,50
+210,115,Jay,Henke,Fort Collins,Co,5:15:26,M,42
+211,205,Greg,Oakes,Fort Collins,Co,5:15:26,M,43
+212,265,Justin,Spruell,Fort Collins,Co,5:15:27,M,43
+213,154,Konrad,Kulikowski,Pine,Co,5:15:32,M,34
+214,209,Gregory,Orticelle,Denver,Co,5:15:54,M,32
+215,264,Ben,Sorensen,Boulder,Co,5:17:20,M,30
+216,279,Ryan,Van Duzer,Boulder,Co,5:17:21,M,36
+217,326,Liam,Bierney,Boulder,Co,5:17:22,M,
+218,297,Jeffrey,Wilbur,Longmont,Co,5:18:24,M,39
+219,98,Matthew,Greger,Buckley Afb,Co,5:19:48,M,25
+220,137,Craig,Kane,Austin,Tx,5:20:10,M,41
+221,340,Joe,Shields,Littleton,Co,5:24:23,M,
+222,89,Benon,Gattis,Gunnison,Co,5:27:18,M,14
+223,286,Matty,Walker,Golden,Co,5:28:11,M,37
+224,214,Justin,Patti,Denver,Co,5:28:12,M,31
+225,272,Gary,Thacker,Boulder,Co,5:29:27,M,60
+226,337,Martha,Buttner,Boulder,Co,5:30:04,M,
+227,107,Matt,Hambright,Fort Collins,Co,5:31:38,M,31
+228,198,Campbell,Morrissy,Denver,Co,5:31:38,M,27
+229,94,Joshua,Goldberg,Longmont,Co,5:34:50,M,34
+230,196,Richard,Moothart,Colorado Springs,Co,5:36:33,M,40
+231,305,Tom,Campbell,Longmont,CO,5:36:45,M,57
+232,300,Michael,Winston,Wheat Ridge,Co,5:39:32,M,34
+233,64,Steve,Di Tirro,Seattle,Wa,5:40:43,M,43
+234,236,Tim,Reinholt,Longmont,Co,5:40:54,M,40
+235,284,Daniel,Wade,Johnstown,Co,5:40:54,M,34
+236,165,Richard,Leeper,Fort Collins,Co,5:48:39,M,36
+237,146,Rob,Kelso,Ovid,Co,5:49:34,M,40
+238,246,Brian,Schmierer,Fort Collins,Co,5:49:34,M,38
+239,263,Charlie,Sojka,Boulder,Co,5:50:40,M,36
+240,85,Greg,Fries,Longmont,Co,5:50:51,M,49
+241,93,Dave,Goble,Midway,Ut,6:03:46,M,67
+242,174,Jeff,Lord,Boulder,Co,6:03:50,M,54
+243,273,Greg,Tilton,Denver,Co,6:04:57,M,28
+244,162,Nathan,Lee,Boulder,Co,6:06:46,M,43
+245,302,Ben,Zavadil,Centennial,Co,6:15:12,M,28
+246,194,David,Mitchell,,,6:30:00,M,
+247,227,Erich,Pomrening,,,6:35:26,M,
+248,,Dan,Martin,,CA,6:55,,
+,7,Zachary,Alexander,Centennial,Co,,M,26
+,10,Don,Alvarado,Evergreen,Co,,M,56
+,19,Mathew,Barlow,Boulder,Co,,M,32
+,22,James,Becker,Denver,Co,,M,38
+,23,Andy,Bedard,Arvada,Co,,M,44
+,29,Brock,Bigard,Boulder,Co,,M,37
+,32,Adam,Boyd,Louisville,Co,,M,39
+,34,Levi,Brown,Boulder,Co,,M,41
+,35,Jeff,Brown,Boulder,Co,,M,60
+,36,Robert,Brudenell,Littleton,Ca,,M,47
+,38,Joe,Bucciaglia,Boulder,Co,,M,44
+,43,Dale,Katechis,Longmont,Co,,M,46
+,49,Chris,Case,Boulder,Co,,M,37
+,52,Andrew,Christman,Littleton,Co,,M,39
+,53,Juan,Van Der Dys,Westminster,Co,,M,36
+,72,Darin,Dolezal,Lakewoo,Co,,M,36
+,77,Billy,Edwards,Boulder,Co,,M,37
+,84,Tony,Freeburg,Littleton,Co,,M,44
+,87,Stephen,Frothingham,Longmont,Co,,M,47
+,90,Garrett,Gerchar,Boulder,Co,,M,18
+,91,Zach,Gerig,Golden,Co,,M,36
+,101,Ryan,Guerrero,Boulder,Co,,M,28
+,104,Phil,Hackbarth,Colo Springs,Co,,M,46
+,108,Darren,Hanger,Littleton,Co,,M,46
+,128,Brian,Hutchison,Nederland,Co,,M,41
+,132,Adam,Johnson,Fort Collins,Co,,M,40
+,145,Kayden,Kelly,Auburn,Ca,,M,40
+,149,Brad,Knox,Lafayette,Co,,M,34
+,151,Mark,Kougl,Estes Park,Co,,M,47
+,158,Mel,Ladewig,Lakewood,Co,,M,36
+,159,Mike,Lahaie,Highlands Ranch,Co,,M,35
+,160,Derek,Lakin,Englewood,Co,,M,37
+,161,Richard,Lane,Louisville,Co,,M,47
+,171,Andy,Logan,Denver,Co,,M,43
+,172,Eric,Long,Boulder,Co,,M,53
+,181,Daniel,Martin,Roseville,Ca,,M,40
+,190,Brian,Metz,Denver,Co,,M,30
+,194,David,Mitchell,Longmont,Co,,M,56
+,200,Philip,Mundt,Denver,Co,,M,29
+,227,Erich,Pomrening,Superior,Co,,M,26
+,229,Jesse,Port,Golden,Co,,M,38
+,230,Don,Powell,Boulder,Co,,M,47
+,238,David,Rick,Longmont,Co,,M,56
+,240,Todd,Root,Boulder,Co,,M,42
+,241,Shawn,Ropp,Boulder,Co,,M,49
+,249,Brad,Seaman,Boulder,Co,,M,43
+,251,Gary,Sharp,Boulder,Co,,M,52
+,259,Tom,Shonka,Boulder,Co,,M,61
+,261,Steve,Simon,Littleton,Co,,M,39
+,268,Brandon,Stewart,Denver,Co,,M,26
+,269,Jesse,Swift,Golden,Co,,M,39
+,274,D G,Tomlinson,Littleton,Co,,M,43
+,285,Tom,Wagner,Denver,Co,,M,36
+,294,Andrew,White,Boulder,Co,,M,49
+,310,Adam,Blaha,Fort Collins,Co,,M,
+,312,Tim,Ams,Arlington Heights,Il,,M,
+,316,Chris,Boyd,Lafayette,Co,,M,
+,327,Ryan,Retry,Boulder,Co,,M,
+,331,Sean,Kendall,Boulder,Co,,M,
+,333,Adam,Perry,Boulder,Co,,M,
+,341,Ro,Guenzel,,,,M,
+,342,Josh,Breckel,,,,M,
+,343,Thomas,Ruprecht,,,,M,
+,344,Nick,Cassaro,,,,M,
+,420,Bobbie,Turner,,,,M,
